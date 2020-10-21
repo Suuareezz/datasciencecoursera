@@ -1,0 +1,17 @@
+@relation lfc
+@attribute 'Bread' {t}
+@attribute 'Egg' {t}
+@attribute 'Lemon' {t}
+@attribute 'Milk' {t}
+@attribute 'Orange' {t}
+@attribute 'Pomogranate' {t}
+@data
+?,?,?,t,t,t
+t,t,t,?,t,t
+?,t,t,t,?,?
+t,?,?,t,t,?
+?,?,t,?,t,?
+?,?,t,t,?,t
+t,?,?,?,t,?
+
+
